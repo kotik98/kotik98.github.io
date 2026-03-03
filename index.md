@@ -5,10 +5,12 @@ title: Bogdan Zakharin CV
 # Bogdan Zakharin  
 Web3 Developer / DeFi Analyst  
 
-Email: zaharin.b50@gmail.com  
-Telegram: @MrrMeow  
-LinkedIn: https://www.linkedin.com/in/bogdan-zakharin-5a7391209/  
-GitHub: https://github.com/kotik98  
+<div id="webaddress">
+<a href="https://www.linkedin.com/in/bogdan-zakharin-5a7391209/">LinkedIn</a>
+| <a href="https://github.com/kotik98">GitHub</a>
+| <a href="https://t.me/MrrMeow">Telegram</a>
+| zaharin.b50@gmail.com 
+</div> 
 
 ## Summary
 
