@@ -1,7 +1,3 @@
----
-layout: cv
-title: Bogdan Zakharin CV
----
 # Bogdan Zakharin  
 Web3 Developer / DeFi Analyst  
 
@@ -15,6 +11,8 @@ GitHub: https://github.com/kotik98
 Web3 developer and protocol analyst with a background in applied mathematics and computer science. Experience in cross-chain protocol architecture, DeFi strategy development, smart contract analysis, and token mechanics design. 
 
 Strong quantitative foundation (probability theory, statistics, optimization, numerical modeling) combined with practical exposure to Solidity development and on-chain systems.
+
+Interested in roles spanning smart contract development, cross-chainprotocol engineering, perp DEX development, and DeFi analytics.
 
 ## Experience
 
@@ -115,6 +113,3 @@ Cross-chain messaging systems
 Blockchain Oracles  
 DeFi protocols analysis  
 Yield strategies analysis & testing
-
-
-
