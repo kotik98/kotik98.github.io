@@ -20,6 +20,16 @@ Strong quantitative foundation (probability theory, statistics, optimization, nu
 
 ## Experience
 
+### [Statemind](https://statemind.io/) — Smart contract auditor
+**Apr 2026 – Present**  
+Smart contract audit and blockchain security 
+
+- Successfully audited Lido StakingRouter V3 including the full protocol scope: core, TopUp, and Consolidation contracts.
+- Audited Symbiotic Vault V2, including the surrounding infrastructure and most App Adapters.
+- Professional references:
+  - [Robert Melikyan](https://www.linkedin.com/in/robert-melikyan-6583a4220/) — Head of Audit
+  - [Mariia Zhuravleva](https://www.linkedin.com/in/mariia-zhuravleva-b345b610a/) — Chief Operating Officer
+
 ### Trillion DEX — System Analyst
 **Jul 2025 – Feb 2026**  
 Decentralized perp exchange, running in TEE (Trusted Execution Environment)  
@@ -66,6 +76,11 @@ Focus areas: DeFi analytics, Solidity development, DeFi yield strategies, risk m
 **Year: 2024**  
 Focus: Smart Contracts business logic analysis, common vulnerability patterns, audit workflow, DeFi exploits.  
 Certificate: NFT (EVM)
+
+### Blockchain Security Fellowship — Statemind  
+**Year: 2026**  
+Focus: DeFi security theory & CTF  
+Certificate: [NFT](https://opensea.io/item/polygon/0x846c9021242de527da256cfa9bab5faf3e19717f/16)
 
 ## Education
 
