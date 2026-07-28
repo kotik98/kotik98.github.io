@@ -34,21 +34,24 @@ Smart contract audit and blockchain security
 **Jul 2025 – Feb 2026**  
 Decentralized perp exchange, running in TEE (Trusted Execution Environment)  
 
-- Together with Architecture lead contributed to DEX infrastructure (TEE-based blockchain) design.
-- Defined and documented business logic for perp DEX mechanics such as liquidation, funding, and margining.
-- Created comprehensive financial model and tokenomics for DEX.
+- Collaborated with the Lead Architect on the design of a TEE-based blockchain infrastructure, translating business concepts into system-level architecture and functional requirements.
+- Defined, documented, and formalized business requirements for perpetual DEX mechanics, including liquidation, funding, margining, leverage, and risk management workflows.
+- Designed the protocol tokenomics and developed a comprehensive financial model to evaluate protocol sustainability and incentive alignment.
+- Produced technical specifications, user flows, UML diagrams, sequence diagrams, and process documentation for engineering teams.
+- Managed technical requirements in Jira and Confluence, preparing implementation-ready tasks for development teams.
 
 ### Entangle Protocol — System Analyst  
 **Nov 2023 – Jun 2025**  
 Cross-chain communication infrastructure protocol  
 
-- Created Business Development proposals for partner integrations.
-- Contributed to cross-chain messaging protocol architecture design.
-- Contributed to oracle protocol design.
+- Designed partner integration proposals by identifying integration opportunities, defining technical and business value, and preparing structured proposal documents for prospective partners.
+- Participated in protocol architecture design discussions, defining business and technical requirements for cross-chain messaging, validator consensus, and active node rotation mechanisms.
+- Proposed and drove the adoption of pull-based (on-demand) oracle architecture, participating in requirements definition and protocol design discussions.
 - Participated in internal smart contract audits.
-- Designed and formalized protocol point system and incentive logic.
-- Wrote technical specifications and internal protocol documentation.
-- Analyzed protocol-level mechanics and cross-chain communication flows.
+- Designed and formalized business requirements for a user incentive and points system for the cross-chain bridge, including earning rules, eligibility criteria, reward distribution, and edge-case handling.
+- Produced technical specifications and protocol documentation, including UML diagrams, sequence diagrams, flowcharts, and architecture documentation for both internal teams and external publications.
+- Analyzed protocol mechanics, cross-chain communication flows, and competing cross-chain solutions to identify architectural trade-offs, market positioning, strengths, and design improvements.
+- Gathered, structured, and refined business requirements from product discussions, translating them into implementation-ready technical specifications for engineering teams.
 
 Focus areas: cross-chain protocol architecture, gitbook documentation, Diagrams & UML, Business Development technical integrations design, internal smart contract audits.
 
@@ -112,6 +115,9 @@ NumPy, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ### Backend & Infrastructure
 Git, Docker, Django, PostgreSQL, Linux, GitHub Actions (CI/CD)  
+
+### Business Analysis
+Business Requirements, Technical Specifications, UML, BPMN, Sequence Diagrams, Acceptance Criteria, Process Modeling, Integration Design
 
 ### Collaboration & Documentation
 Atlassian Jira, Atlassian Confluence, Slack, GitBook, Notion, Miro, Excel
