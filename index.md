@@ -21,7 +21,7 @@ Strong quantitative foundation (probability theory, statistics, optimization, nu
 ## Experience
 
 ### [Statemind](https://statemind.io/) — Smart contract auditor
-**Apr 2026 – Present**  
+**Apr 2026 – Aug 2026**  
 Smart contract audit and blockchain security 
 
 - Successfully audited Lido StakingRouter V3 including the full protocol scope: core, TopUp, and Consolidation contracts.
